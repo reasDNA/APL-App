@@ -6,10 +6,15 @@
 
 <div>
 
-<form action="APL_SQL-Frågor.php" method="get">
+<form action="APL_loginFunction.php" method="post">
 
 
-<input type="submit" name='Elever+Handledare' value='Elever+Handledare'>
+
+<input type="input" name='Anvandarnamn' value='Anvandarnamn'>
+
+<input type="input" name='Losenord' value='Losenord'>
+
+<input type="submit" name='Logga in' value='Logga in'>
 
 </div>
 </form>
