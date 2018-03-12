@@ -6,7 +6,7 @@
 
 <div>
 
-<form action="APL_SQL-Frågor.php" method="get">
+<form action="APL_TextFrogor.php" method="get">
 
 <input type="submit" name='Användare' value='användare'>
 
